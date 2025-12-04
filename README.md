@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello there 
+
+I'm a computer science and engieering student at Chalmers, currently studying the High Performance Computer Systems MSc program, 5th year.
+
 
 <!--
 **nikerl/nikerl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👋
 -->
