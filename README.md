@@ -2,7 +2,7 @@
 
 I'm a 5th year computer science and engieering student at Chalmers. 
 
-Currently studying the High Performance Computer Systems MSc program.
+Currently studying the High-Performance Computer Systems MSc program.
 
 ### Skills and Languages
 <img title="C Langauge" src="https://skills.syvixor.com/api/icons?perline=15&i=c"> <img title="C++" src="https://skills.syvixor.com/api/icons?perline=15&i=cpp">
