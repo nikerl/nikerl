@@ -5,11 +5,12 @@ I'm a 5th year computer science and engieering student at Chalmers.
 Currently studying the High-Performance Computer Systems MSc program.
 
 ### Skills and Languages
-<img title="C Langauge" src="https://skills.syvixor.com/api/icons?perline=15&i=c"> <img title="C++" src="https://skills.syvixor.com/api/icons?perline=15&i=cpp">
-<img title="Java" src="https://skills.syvixor.com/api/icons?perline=15&i=java"> <img title="Python" src="https://skills.syvixor.com/api/icons?perline=15&i=python">
-<img title="Pytorch" src="https://skills.syvixor.com/api/icons?perline=15&i=pytorch"> <img title="Go Language" src="https://skills.syvixor.com/api/icons?perline=15&i=golang">
-<img title="VHDL" src="https://skills.syvixor.com/api/icons?perline=15&i=vhdl"> <img title="Bash" src="https://skills.syvixor.com/api/icons?perline=15&i=bash">
-<img title="SQL" src="https://skills.syvixor.com/api/icons?perline=15&i=sql">
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=c"> <img src="https://skills.syvixor.com/api/icons?perline=15&i=cpp">
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=java"> <img src="https://skills.syvixor.com/api/icons?perline=15&i=python">
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=rust">
+<img width="48" height="48" alt="sv" src="https://github.com/user-attachments/assets/3fe29216-c4b6-4dea-8537-09ce968dc94a" />
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=golang"> <img src="https://skills.syvixor.com/api/icons?perline=15&i=pytorch"> 
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=sql">
 
 
 
