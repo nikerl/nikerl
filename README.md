@@ -1,8 +1,8 @@
 ## hello there
 
-I'm a 5th year computer science and engieering student at Chalmers. 
+I'm a recent computer science and engineering graduate from Chalmers. 
 
-Currently studying the High-Performance Computer Systems MSc program.
+I studied the High-Performance Computer Systems MSc program. My master's thesis focused on building a RISC-V accelerator for sparse matrix multiplication. 
 
 ### Skills and Languages
 <img src="https://skills.syvixor.com/api/icons?perline=15&i=c"> <img src="https://skills.syvixor.com/api/icons?perline=15&i=cpp">
